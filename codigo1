@@ -4,7 +4,7 @@
 
 
 <channel>
-<name>[COLOR=blue]            --   MENU PRINCIPAL PARAGUAY TV ADDONS    --    [/B] [/COLOR] </name>
+<name>[COLOR=blue][B]            --   MENU PRINCIPAL PARAGUAY TV ADDONS    --    [/B] [/COLOR] </name>
 <thumbnail>http://.COM</thumbnail>
 <fanart></fanart>
 <info>[B]SERVICIO DISPONIBLE[/B]</info>
@@ -17,7 +17,7 @@
 <channels>
 
 <channel>
-<name>[COLOR=blue] [B]Email:addonsparaguay@gmail.com[/B] [/COLOR] </name>
+<name>[COLOR=blue] Email:addonsparaguay@gmail.com [/COLOR] </name>
 <thumbnail>http://.COM</thumbnail>
 <fanart></fanart>
 <info>[B]SERVICIO DISPONIBLE[/B]</info>
